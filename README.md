@@ -249,3 +249,8 @@ They are scaled-up versions of:
 - Gradient descent
 
 Understanding this implementation means understanding the foundation of large-scale generative AI systems.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
